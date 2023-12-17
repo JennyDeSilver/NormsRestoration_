@@ -993,7 +993,7 @@ body, html {
     line-height: 1.2em;
     text-align: center;
     max-width: 51.8125rem;
-    -webkit-text-stroke: 2px;
+    -webkit-text-stroke-width: 0.04em;
     -webkit-text-stroke-color: #1A1A1A;
     color: white;
     /* 16px - 24px */
@@ -1011,7 +1011,7 @@ body, html {
     max-width: clamp(29rem, 60vw, 38.785rem);
     margin: 0;
     color: white;
-    -webkit-text-stroke-width: thin;
+    -webkit-text-stroke-width: 0.03em;
     -webkit-text-stroke-color: black;
 
 
