@@ -615,6 +615,7 @@ body, html {
   }
   #cs-navigation .cs-dropdown .cs-li-link {
     position: relative;
+    color: var(--headerColor);
     transition: opacity .3s;
   }
   #cs-navigation .cs-drop-icon {
